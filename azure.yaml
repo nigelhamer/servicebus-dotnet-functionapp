@@ -1,0 +1,8 @@
+name: servicebus-dotnet-functionapp
+metadata:
+  template: servicebus-dotnet-functionapp@0.0.1-beta
+services:
+  app:
+    project: src/functionapp
+    language: csharp
+    host: function

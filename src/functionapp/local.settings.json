@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ServiceBusQueueName": "theQueue",
+    "ServiceBusConnection__fullyQualifiedNamespace": "sb-demo-eh5wzhsee6wcw.servicebus.windows.net"
+  }
+}
